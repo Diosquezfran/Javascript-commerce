@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(199, 228, 236);
+}
+section{
+    display: flex;
+    margin:10% 20%;
+    background-color:white;
+    width: 60vw;
+    height:70vh;
+    border-radius: 50px;
+}
+
+.article1{
+    display: inline-flex;
+    flex-direction: column;
+    width: 50%;
+}
+.article2{
+    padding: 10px;
+    display: inline-flex;
+    flex-direction: row;
+    width: 50%;
+    background-color: rgb(150, 150, 189);
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.cards{
+    margin-top: 10px;
+    height: max-content;
+}
+.conteiner-items{
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   width: 100%;
+}
+li{
+    width: 100%;
+    list-style: none;
+
+}
+ul{
+    width: 100%;
+    border-bottom:solid 1px;
+    margin-bottom: 0;
+    margin-left: 20%;
+}
+.precio-final{
+    color: rgb(6, 187, 21);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+   padding-top: 5%;
+}
+
+input{
+ width: 50%;
+}
+label{
+    width: 50%;
+}

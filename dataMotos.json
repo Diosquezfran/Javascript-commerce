@@ -1,0 +1,35 @@
+[{
+    "imagen": "/proyecto1/img/yamaha-ninja.png",
+    "marca": "Yamaha",
+    "modelo": "Ninja",
+    "precio": 12000,
+    "sotck": 2
+},
+{
+    "imagen": "/proyecto1/img/harley-davison.png",
+    "marca": "Harley Davison",
+    "modelo": "Rocket",
+    "precio": 120000,
+    "sotck": 2
+},
+{
+    "imagen": "https://tmdcobreq.com.br/wp-content/uploads/2019/01/IMAGEM-CARRO-BIZ-125.png",
+    "marca": "Honda",
+    "modelo": "Biz",
+    "precio": 900,
+    "sotck": 3
+},
+{
+    "imagen": "/proyecto1/img/yamaha-scooter.png",
+    "marca": "Yamaha",
+    "modelo": "Scooter",
+    "precio": 1500,
+    "sotck": 3
+},
+{
+    "imagen": "/proyecto1/img/indian.png",
+    "marca": "Indian",
+    "modelo": "Power",
+    "precio": 10200,
+    "sotck": 3
+}]

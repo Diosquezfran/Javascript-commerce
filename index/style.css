@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+section{
+    display: inline-flex;
+    margin-top: 15%;
+}
+
+.cards{
+    display: inline-flex;
+    width: 50vw;
+    height: 50vh;
+    background-color: aqua;
+}
+
+.pago{
+    display: inline-flex;
+    width: 50vw;
+    height: 50vh;
+    background-color: blueviolet;
+}
+
+.carrito_boton{
+    border-top: solid 1px;
+    background-color: rgb(251, 251, 255);
+}
+a{
+    text-decoration: none;
+}
+.boton-clean{
+    width: 100%;
+    padding: 5px;
+    border-style: none;
+    color: rgb(236, 227, 227);
+    background-color: rgb(59, 57, 57);
+}
+.boton-clean:hover{
+    background-color:
+    rgb(112, 109, 109); ;
+}
+.boton-compra{
+    background-color: rgb(42, 180, 0);
+    height: 100%;
+}
+.boton-compra:hover{
+    background-color: rgb(41, 168, 2);
+
+}
+button{
+    border-radius: 3px;
+}
+#checkout{
+    display:grid;
+    grid-row: 1 / 1 ;
+}
+#form{
+    display: grid;
+    grid-column: 2/ 3;
+    grid-row: 1 / 1 ;
+    width: 90%;
+}
+#card-check{
+    height: 50%;
+    width: 90%;
+    margin-right: 5%;
+    height: max-content;
+}
